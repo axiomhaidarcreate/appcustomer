@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5639673711",
+    "project_id": "shash-c7c31",
+    "storage_bucket": "shash-c7c31.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5639673711:android:8bbda000ed9aa36962ba9a",
+        "android_client_info": {
+          "package_name": "shash.customer_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_nATFwYcieUZAcdS9JyY1kctYwkpDbC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
